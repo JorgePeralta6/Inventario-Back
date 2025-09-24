@@ -1,0 +1,582 @@
+[{
+  "_id": {
+    "$oid": "6818586c2bb58de34ff5c03d"
+  },
+  "product": {
+    "$oid": "6813d96d0cf26269a15b2364"
+  },
+  "quantity": 10,
+  "employee": {
+    "$oid": "680cf10664fe099eaa1b8994"
+  },
+  "status": true,
+  "date": {
+    "$date": "2025-05-05T06:19:24.418Z"
+  },
+  "createdAt": {
+    "$date": "2025-05-05T06:19:24.419Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-05T06:19:24.419Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "681899702bb58de34ff5c09a"
+  },
+  "product": {
+    "$oid": "6818454a2bb58de34ff5be83"
+  },
+  "quantity": 1,
+  "employee": {
+    "$oid": "680cf10664fe099eaa1b8994"
+  },
+  "status": true,
+  "date": {
+    "$date": "2025-05-05T10:56:48.093Z"
+  },
+  "createdAt": {
+    "$date": "2025-05-05T10:56:48.093Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-05T10:56:48.093Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "681899dd2bb58de34ff5c0a0"
+  },
+  "product": {
+    "$oid": "6813d96d0cf26269a15b2364"
+  },
+  "quantity": 10,
+  "employee": {
+    "$oid": "680cf10664fe099eaa1b8994"
+  },
+  "status": true,
+  "date": {
+    "$date": "2025-05-05T10:58:37.542Z"
+  },
+  "createdAt": {
+    "$date": "2025-05-05T10:58:37.545Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-05T10:58:37.545Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6818a5dfddbbe2ccefbf4bfb"
+  },
+  "product": {
+    "$oid": "6813d96d0cf26269a15b2364"
+  },
+  "quantity": 5,
+  "employee": {
+    "$oid": "680cf10664fe099eaa1b8994"
+  },
+  "status": true,
+  "date": {
+    "$date": "2025-05-05T11:49:51.443Z"
+  },
+  "createdAt": {
+    "$date": "2025-05-05T11:49:51.444Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-05T11:49:51.444Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6818ac6dc811c5eb763f9603"
+  },
+  "product": {
+    "$oid": "6813d96d0cf26269a15b2364"
+  },
+  "quantity": 20,
+  "employee": {
+    "$oid": "680cf10664fe099eaa1b8994"
+  },
+  "reason": "Que te importa",
+  "destiny": "Guastatoya",
+  "status": true,
+  "date": {
+    "$date": "2025-05-05T12:17:49.465Z"
+  },
+  "createdAt": {
+    "$date": "2025-05-05T12:17:49.466Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-05T12:17:49.466Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6818aca4b2a32651ec14324a"
+  },
+  "product": {
+    "$oid": "6813d96d0cf26269a15b2364"
+  },
+  "quantity": 10,
+  "employee": {
+    "$oid": "680cf10664fe099eaa1b8994"
+  },
+  "reason": "Que te importa",
+  "destiny": "Guastatoya",
+  "status": true,
+  "date": {
+    "$date": "2025-05-05T12:18:44.992Z"
+  },
+  "createdAt": {
+    "$date": "2025-05-05T12:18:44.993Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-05T12:18:44.993Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6818b397b2a32651ec143409"
+  },
+  "product": {
+    "$oid": "6813d96d0cf26269a15b2364"
+  },
+  "quantity": 8,
+  "employee": {
+    "$oid": "680cf10664fe099eaa1b8994"
+  },
+  "reason": "Que te importa",
+  "destiny": "Quiche",
+  "status": true,
+  "date": {
+    "$date": "2025-05-05T12:48:23.026Z"
+  },
+  "createdAt": {
+    "$date": "2025-05-05T12:48:23.027Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-05T12:48:23.027Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6818b436b2a32651ec1434cc"
+  },
+  "product": {
+    "$oid": "6813d96d0cf26269a15b2364"
+  },
+  "quantity": 20,
+  "employee": {
+    "$oid": "680cf10664fe099eaa1b8994"
+  },
+  "status": true,
+  "date": {
+    "$date": "2025-05-05T12:51:02.506Z"
+  },
+  "createdAt": {
+    "$date": "2025-05-05T12:51:02.507Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-05T12:51:02.507Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6818b48db2a32651ec143500"
+  },
+  "product": {
+    "$oid": "6813d96d0cf26269a15b2364"
+  },
+  "quantity": 10,
+  "employee": {
+    "$oid": "680d00ad1c38565aeb586c6d"
+  },
+  "status": true,
+  "date": {
+    "$date": "2025-05-05T12:52:29.641Z"
+  },
+  "createdAt": {
+    "$date": "2025-05-05T12:52:29.641Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-05T12:52:29.641Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6818b4a6b2a32651ec14351f"
+  },
+  "product": {
+    "$oid": "6813d96d0cf26269a15b2364"
+  },
+  "quantity": 2,
+  "employee": {
+    "$oid": "680d00ad1c38565aeb586c6d"
+  },
+  "reason": "No se",
+  "destiny": "Izabal",
+  "status": true,
+  "date": {
+    "$date": "2025-05-05T12:52:54.617Z"
+  },
+  "createdAt": {
+    "$date": "2025-05-05T12:52:54.618Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-05T12:52:54.618Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6819923f042e1f91ead20a24"
+  },
+  "product": {
+    "$oid": "6818454a2bb58de34ff5be83"
+  },
+  "quantity": 120,
+  "employee": {
+    "$oid": "680cf10664fe099eaa1b8994"
+  },
+  "reason": "no se",
+  "destiny": "Antigua",
+  "status": true,
+  "date": {
+    "$date": "2025-05-06T04:38:23.903Z"
+  },
+  "createdAt": {
+    "$date": "2025-05-06T04:38:23.904Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-06T04:38:23.904Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "681992d75e18961309a874f9"
+  },
+  "product": {
+    "$oid": "6813d96d0cf26269a15b2364"
+  },
+  "quantity": 1,
+  "employee": {
+    "$oid": "680cf10664fe099eaa1b8994"
+  },
+  "status": true,
+  "date": {
+    "$date": "2025-05-06T04:40:55.815Z"
+  },
+  "createdAt": {
+    "$date": "2025-05-06T04:40:55.816Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-06T04:40:55.816Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6819bb810ee51ff109eefab3"
+  },
+  "product": {
+    "$oid": "681819f8033577b2ae059e77"
+  },
+  "quantity": 20,
+  "employee": {
+    "$oid": "680cf10664fe099eaa1b8994"
+  },
+  "reason": "QUe te importa",
+  "destiny": "Kazajistan",
+  "status": true,
+  "date": {
+    "$date": "2025-05-06T07:34:25.097Z"
+  },
+  "createdAt": {
+    "$date": "2025-05-06T07:34:25.098Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-06T07:34:25.098Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6819bbc30ee51ff109eefb1b"
+  },
+  "product": {
+    "$oid": "68183bfc2bb58de34ff5bd06"
+  },
+  "quantity": 9,
+  "employee": {
+    "$oid": "680cf10664fe099eaa1b8994"
+  },
+  "reason": "NO ",
+  "destiny": "Gallinero",
+  "status": true,
+  "date": {
+    "$date": "2025-05-06T07:35:31.146Z"
+  },
+  "createdAt": {
+    "$date": "2025-05-06T07:35:31.147Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-06T07:35:31.147Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6819bbee0ee51ff109eefb74"
+  },
+  "product": {
+    "$oid": "681996205e18961309a8752f"
+  },
+  "quantity": 11,
+  "employee": {
+    "$oid": "680cf10664fe099eaa1b8994"
+  },
+  "reason": "si",
+  "destiny": "Amatitlan",
+  "status": true,
+  "date": {
+    "$date": "2025-05-06T07:36:14.474Z"
+  },
+  "createdAt": {
+    "$date": "2025-05-06T07:36:14.474Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-06T07:36:14.474Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6819bc1f0ee51ff109eefbf2"
+  },
+  "product": {
+    "$oid": "68199fa040952b65d67b2a1e"
+  },
+  "quantity": 8,
+  "employee": {
+    "$oid": "680cf10664fe099eaa1b8994"
+  },
+  "reason": "PQ SI",
+  "destiny": "Mi casa",
+  "status": true,
+  "date": {
+    "$date": "2025-05-06T07:37:03.648Z"
+  },
+  "createdAt": {
+    "$date": "2025-05-06T07:37:03.648Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-06T07:37:03.648Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6819bc5f0ee51ff109eefc53"
+  },
+  "product": {
+    "$oid": "6819a2660ee51ff109eef884"
+  },
+  "quantity": 4,
+  "employee": {
+    "$oid": "680cf10664fe099eaa1b8994"
+  },
+  "reason": "Feo",
+  "destiny": "Basurero",
+  "status": true,
+  "date": {
+    "$date": "2025-05-06T07:38:07.657Z"
+  },
+  "createdAt": {
+    "$date": "2025-05-06T07:38:07.658Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-06T07:38:07.658Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "681a86a37611ba3053ee4d83"
+  },
+  "product": {
+    "$oid": "6818454a2bb58de34ff5be83"
+  },
+  "quantity": 1,
+  "employee": {
+    "$oid": "680cf10664fe099eaa1b8994"
+  },
+  "reason": "La pasion de Mayen",
+  "destiny": "Kazajistan",
+  "status": true,
+  "date": {
+    "$date": "2025-05-06T22:01:07.360Z"
+  },
+  "createdAt": {
+    "$date": "2025-05-06T22:01:07.360Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-06T22:01:07.360Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "681a87917611ba3053ee4e5f"
+  },
+  "product": {
+    "$oid": "68191ffc5dabc349159f43c6"
+  },
+  "quantity": 12,
+  "employee": {
+    "$oid": "680cf10664fe099eaa1b8994"
+  },
+  "reason": "Importacion",
+  "destiny": "Argentina",
+  "status": true,
+  "date": {
+    "$date": "2025-05-06T22:05:05.130Z"
+  },
+  "createdAt": {
+    "$date": "2025-05-06T22:05:05.131Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-06T22:05:05.131Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "681a88657611ba3053ee4f53"
+  },
+  "product": {
+    "$oid": "681a88467611ba3053ee4f0d"
+  },
+  "quantity": 16,
+  "employee": {
+    "$oid": "680cf10664fe099eaa1b8994"
+  },
+  "reason": "Bombardear Gaza",
+  "destiny": "Gaza",
+  "status": true,
+  "date": {
+    "$date": "2025-05-06T22:08:37.277Z"
+  },
+  "createdAt": {
+    "$date": "2025-05-06T22:08:37.277Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-06T22:08:37.277Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "681a88b27611ba3053ee5008"
+  },
+  "product": {
+    "$oid": "681a88467611ba3053ee4f0d"
+  },
+  "quantity": 12,
+  "employee": {
+    "$oid": "680cf10664fe099eaa1b8994"
+  },
+  "status": true,
+  "date": {
+    "$date": "2025-05-06T22:09:54.784Z"
+  },
+  "createdAt": {
+    "$date": "2025-05-06T22:09:54.785Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-06T22:09:54.785Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "681a890b7611ba3053ee507d"
+  },
+  "product": {
+    "$oid": "68191ecc5dabc349159f4367"
+  },
+  "quantity": 13,
+  "employee": {
+    "$oid": "680cf10664fe099eaa1b8994"
+  },
+  "reason": "Vinicius Balon de Platano",
+  "destiny": "Brazil",
+  "status": true,
+  "date": {
+    "$date": "2025-05-06T22:11:23.696Z"
+  },
+  "createdAt": {
+    "$date": "2025-05-06T22:11:23.696Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-06T22:11:23.696Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "681a89347611ba3053ee5100"
+  },
+  "product": {
+    "$oid": "68191f595dabc349159f43a7"
+  },
+  "quantity": 20,
+  "employee": {
+    "$oid": "680cf10664fe099eaa1b8994"
+  },
+  "reason": "Que se le caiga al jeremy",
+  "destiny": "Bethania",
+  "status": true,
+  "date": {
+    "$date": "2025-05-06T22:12:04.622Z"
+  },
+  "createdAt": {
+    "$date": "2025-05-06T22:12:04.622Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-06T22:12:04.622Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "681a89a47611ba3053ee5224"
+  },
+  "product": {
+    "$oid": "68191ffc5dabc349159f43c6"
+  },
+  "quantity": 19,
+  "employee": {
+    "$oid": "680cf10664fe099eaa1b8994"
+  },
+  "status": true,
+  "date": {
+    "$date": "2025-05-06T22:13:56.803Z"
+  },
+  "createdAt": {
+    "$date": "2025-05-06T22:13:56.803Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-06T22:13:56.803Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "681a89bb7611ba3053ee5261"
+  },
+  "product": {
+    "$oid": "68191ffc5dabc349159f43c6"
+  },
+  "quantity": 4,
+  "employee": {
+    "$oid": "680cf10664fe099eaa1b8994"
+  },
+  "reason": "Conquistar Polonia",
+  "destiny": "Polonia",
+  "status": true,
+  "date": {
+    "$date": "2025-05-06T22:14:19.508Z"
+  },
+  "createdAt": {
+    "$date": "2025-05-06T22:14:19.508Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-06T22:14:19.508Z"
+  }
+}]

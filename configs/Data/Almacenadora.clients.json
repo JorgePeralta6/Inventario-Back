@@ -1,0 +1,420 @@
+[{
+  "_id": {
+    "$oid": "68142c6b7122645781a398b1"
+  },
+  "name": "Peralta",
+  "phone": "12345679",
+  "status": true,
+  "createdAt": {
+    "$date": "2025-05-02T02:22:35.647Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-03T00:22:53.510Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68142c727122645781a398b4"
+  },
+  "name": "Cemaco",
+  "phone": "12345678",
+  "status": true,
+  "createdAt": {
+    "$date": "2025-05-02T02:22:42.492Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-02T02:22:42.492Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "681561f31d7d229b0b050482"
+  },
+  "name": "Incasa",
+  "phone": "124934888",
+  "status": true,
+  "createdAt": {
+    "$date": "2025-05-03T00:23:15.935Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-03T00:56:11.145Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "681561fc1d7d229b0b050487"
+  },
+  "name": "Wernerr",
+  "phone": "+502 58770000",
+  "status": true,
+  "createdAt": {
+    "$date": "2025-05-03T00:23:24.277Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-04T04:23:11.322Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "681562001d7d229b0b05048c"
+  },
+  "name": "Werner",
+  "phone": "58694100",
+  "status": true,
+  "createdAt": {
+    "$date": "2025-05-03T00:23:28.974Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-03T00:23:28.974Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "681562041d7d229b0b050491"
+  },
+  "name": "Jorge",
+  "phone": "58770001",
+  "status": true,
+  "createdAt": {
+    "$date": "2025-05-03T00:23:32.743Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-03T00:23:32.743Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "681562051d7d229b0b050496"
+  },
+  "name": "Jorge",
+  "phone": "58770001",
+  "status": true,
+  "createdAt": {
+    "$date": "2025-05-03T00:23:33.190Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-03T00:23:33.190Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "681562091d7d229b0b05049b"
+  },
+  "name": "Joaquin",
+  "phone": "58694100",
+  "status": true,
+  "createdAt": {
+    "$date": "2025-05-03T00:23:37.104Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-03T01:16:59.369Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "681562091d7d229b0b0504a0"
+  },
+  "name": "Joaquin",
+  "phone": "58694100",
+  "status": true,
+  "createdAt": {
+    "$date": "2025-05-03T00:23:37.308Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-03T00:23:37.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "681562091d7d229b0b0504a3"
+  },
+  "name": "Joaquin",
+  "phone": "58694100",
+  "status": true,
+  "createdAt": {
+    "$date": "2025-05-03T00:23:37.499Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-03T00:23:37.499Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "681562101d7d229b0b0504aa"
+  },
+  "name": "Mouse",
+  "phone": "29384756",
+  "status": true,
+  "createdAt": {
+    "$date": "2025-05-03T00:23:44.345Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-03T00:23:44.345Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "681562101d7d229b0b0504af"
+  },
+  "name": "Mouse",
+  "phone": "29384756",
+  "status": true,
+  "createdAt": {
+    "$date": "2025-05-03T00:23:44.582Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-03T00:23:44.582Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "681562101d7d229b0b0504b3"
+  },
+  "name": "Mouse",
+  "phone": "29384756",
+  "status": true,
+  "createdAt": {
+    "$date": "2025-05-03T00:23:44.798Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-03T00:23:44.798Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "681562101d7d229b0b0504b5"
+  },
+  "name": "Mouse",
+  "phone": "29384756",
+  "status": true,
+  "createdAt": {
+    "$date": "2025-05-03T00:23:44.807Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-03T00:23:44.807Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6815621b1d7d229b0b0504c1"
+  },
+  "name": "Mouse",
+  "phone": "29384756",
+  "status": true,
+  "createdAt": {
+    "$date": "2025-05-03T00:23:55.714Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-03T00:23:55.714Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68156656aee4fb45c66b7ace"
+  },
+  "name": "Jorge",
+  "phone": "29384756",
+  "status": true,
+  "createdAt": {
+    "$date": "2025-05-03T00:41:58.131Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-03T00:41:58.131Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6815665baee4fb45c66b7ad3"
+  },
+  "name": "Jorge",
+  "phone": "",
+  "status": true,
+  "createdAt": {
+    "$date": "2025-05-03T00:42:03.176Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-03T01:21:20.625Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6815665baee4fb45c66b7ad9"
+  },
+  "name": "Jorge",
+  "phone": "",
+  "status": true,
+  "createdAt": {
+    "$date": "2025-05-03T00:42:03.473Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-03T01:21:19.299Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6815665baee4fb45c66b7adb"
+  },
+  "name": "Jorge",
+  "phone": "",
+  "status": true,
+  "createdAt": {
+    "$date": "2025-05-03T00:42:03.481Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-03T01:21:17.992Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6815665baee4fb45c66b7ae1"
+  },
+  "name": "Jorge",
+  "phone": "",
+  "status": true,
+  "createdAt": {
+    "$date": "2025-05-03T00:42:03.841Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-03T01:21:16.351Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6815665baee4fb45c66b7ae3"
+  },
+  "name": "Jorge",
+  "phone": "",
+  "status": true,
+  "createdAt": {
+    "$date": "2025-05-03T00:42:03.846Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-03T01:21:14.673Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "681573d1aee4fb45c66b7be4"
+  },
+  "name": "a",
+  "phone": "",
+  "status": true,
+  "createdAt": {
+    "$date": "2025-05-03T01:39:29.548Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-03T01:39:33.221Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68157455aee4fb45c66b7bf4"
+  },
+  "name": "La Torre",
+  "phone": "28195427",
+  "status": true,
+  "createdAt": {
+    "$date": "2025-05-03T01:41:41.276Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-03T01:41:41.276Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "681574c7aee4fb45c66b7bf9"
+  },
+  "name": "fsdfse",
+  "phone": "58694127",
+  "status": true,
+  "createdAt": {
+    "$date": "2025-05-03T01:43:35.825Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-03T01:43:41.317Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "681575c5aee4fb45c66b7c08"
+  },
+  "name": "Walmart",
+  "phone": "58694127",
+  "status": true,
+  "createdAt": {
+    "$date": "2025-05-03T01:47:49.997Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-03T01:47:49.997Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "681576b2aee4fb45c66b7c17"
+  },
+  "name": "Walmart",
+  "phone": "+50258694127",
+  "status": false,
+  "createdAt": {
+    "$date": "2025-05-03T01:51:46.174Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-03T01:51:59.484Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "681576c8aee4fb45c66b7c21"
+  },
+  "name": "Walmart",
+  "phone": "+502 - 58694127",
+  "status": false,
+  "createdAt": {
+    "$date": "2025-05-03T01:52:08.265Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-03T01:52:15.470Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "681576d5aee4fb45c66b7c2b"
+  },
+  "name": "Walmart",
+  "phone": "+502 58694127",
+  "status": true,
+  "createdAt": {
+    "$date": "2025-05-03T01:52:21.693Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-03T01:52:21.693Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "681577caaee4fb45c66b7c33"
+  },
+  "name": "vibrant",
+  "phone": "+1 5869412756",
+  "status": true,
+  "createdAt": {
+    "$date": "2025-05-03T01:56:26.543Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-03T01:56:26.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68157954aee4fb45c66b7c3d"
+  },
+  "name": "La torre",
+  "phone": "+502 58694100",
+  "status": true,
+  "createdAt": {
+    "$date": "2025-05-03T02:03:00.856Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-03T02:03:00.856Z"
+  }
+}]

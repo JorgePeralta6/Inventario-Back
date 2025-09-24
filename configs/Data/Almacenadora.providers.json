@@ -1,0 +1,196 @@
+[{
+  "_id": {
+    "$oid": "681051cceed4aef10d7bb50c"
+  },
+  "name": "Enlasa dddd S.A.",
+  "phone": "12345678",
+  "status": true,
+  "createdAt": {
+    "$date": "2025-04-29T04:13:00.118Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-06T05:38:53.572Z"
+  },
+  "products": [
+    {
+      "$oid": "6813d96d0cf26269a15b2364"
+    },
+    {
+      "$oid": "681505e286c1fa22f80d9453"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "681051dceed4aef10d7bb511"
+  },
+  "name": "LanCOLA",
+  "phone": "22222222",
+  "status": true,
+  "createdAt": {
+    "$date": "2025-04-29T04:13:16.480Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-06T05:38:32.685Z"
+  },
+  "products": [
+    {
+      "$oid": "681460ec26dcc9edf56c7b4d"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6815afedd1c2b8f0aaf65c37"
+  },
+  "name": "IDK dddd S.A.",
+  "phone": "12345679",
+  "products": [
+    {
+      "$oid": "681595a3cabaec6fe773c0f8"
+    },
+    {
+      "$oid": "6814466d15290935216c3bf6"
+    }
+  ],
+  "status": true,
+  "createdAt": {
+    "$date": "2025-05-03T05:55:57.624Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-06T05:37:57.806Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6817c842033577b2ae05989b"
+  },
+  "name": "Incasa LA",
+  "phone": "58694100",
+  "products": [
+    {
+      "$oid": "6813d96d0cf26269a15b2364"
+    },
+    {
+      "$oid": "681460ec26dcc9edf56c7b4d"
+    },
+    {
+      "$oid": "681505e286c1fa22f80d9453"
+    },
+    {
+      "$oid": "681595e7cabaec6fe773c11d"
+    },
+    {
+      "$oid": "68183bfc2bb58de34ff5bd06"
+    }
+  ],
+  "status": true,
+  "createdAt": {
+    "$date": "2025-05-04T20:04:18.731Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-06T05:45:09.530Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6818069f033577b2ae059c21"
+  },
+  "name": "LACOLALOCA S.A.",
+  "phone": "58770001",
+  "products": [
+    {
+      "$oid": "681595a3cabaec6fe773c0f8"
+    },
+    {
+      "$oid": "681819f8033577b2ae059e77"
+    },
+    {
+      "$oid": "6818454a2bb58de34ff5be83"
+    }
+  ],
+  "status": true,
+  "createdAt": {
+    "$date": "2025-05-05T00:30:23.338Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-06T05:45:27.398Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "681845502bb58de34ff5be8c"
+  },
+  "name": "CEMENTOS PROGRESO S.A.",
+  "phone": "29384756",
+  "products": [
+    {
+      "$oid": "6818454a2bb58de34ff5be83"
+    },
+    {
+      "$oid": "68199fa040952b65d67b2a1e"
+    },
+    {
+      "$oid": "681996205e18961309a8752f"
+    },
+    {
+      "$oid": "6819a2660ee51ff109eef884"
+    }
+  ],
+  "status": true,
+  "createdAt": {
+    "$date": "2025-05-05T04:57:52.044Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-06T05:47:18.317Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "681a84547611ba3053ee4ce6"
+  },
+  "name": "ALMACENADORA S.A.",
+  "phone": "58694127",
+  "products": [
+    {
+      "$oid": "681a88467611ba3053ee4f0d"
+    }
+  ],
+  "status": true,
+  "createdAt": {
+    "$date": "2025-05-06T21:51:16.168Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-06T22:08:06.592Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "681a9782b44a0599585dc3bd"
+  },
+  "name": "ALMACENADORA S.A.",
+  "phone": "58694127",
+  "products": [],
+  "status": true,
+  "createdAt": {
+    "$date": "2025-05-06T23:13:06.235Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-06T23:13:06.235Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "681a978bc4e65dd4a741e963"
+  },
+  "name": "ALMACENADORA S.A.",
+  "phone": "58694127",
+  "products": [],
+  "status": true,
+  "createdAt": {
+    "$date": "2025-05-06T23:13:15.948Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-06T23:13:15.948Z"
+  }
+}]

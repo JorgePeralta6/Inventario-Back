@@ -1,0 +1,456 @@
+[{
+  "_id": {
+    "$oid": "681918e13b24485c344e05b5"
+  },
+  "name": "Huevos",
+  "description": "Huevos de gallina",
+  "price": {
+    "$numberDecimal": "15"
+  },
+  "stock": 1,
+  "sales": 7,
+  "category": {
+    "$oid": "68191eeb5dabc349159f4391"
+  },
+  "provider": {
+    "$oid": "6819189f3b24485c344e059f"
+  },
+  "entryDate": {
+    "$date": "2025-05-05T00:00:00.000Z"
+  },
+  "expirationDate": {
+    "$date": "2025-05-10T00:00:00.000Z"
+  },
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR61XEIMpX6gjh_CTFR0fqF2mc3JTsogiQDgg&s",
+  "status": true,
+  "createdAt": {
+    "$date": "2025-05-05T20:00:33.096Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-05T20:28:21.462Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "681919b83b24485c344e0639"
+  },
+  "name": "Refri",
+  "description": "Refrgrrado",
+  "price": {
+    "$numberDecimal": "10000"
+  },
+  "stock": 70,
+  "sales": 28,
+  "category": {
+    "$oid": "680d02861c38565aeb586c7e"
+  },
+  "provider": {
+    "$oid": "681a84547611ba3053ee4ce6"
+  },
+  "entryDate": {
+    "$date": "2025-05-05T00:00:00.000Z"
+  },
+  "expirationDate": null,
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQugxDv1jDPtqaVkStmYT6887DKT1cibNvx6g&s",
+  "status": true,
+  "createdAt": {
+    "$date": "2025-05-05T20:04:08.578Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-06T22:13:12.187Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68191ecc5dabc349159f4367"
+  },
+  "name": "Platanos",
+  "description": "Platanos negros",
+  "price": {
+    "$numberDecimal": "5"
+  },
+  "stock": 187,
+  "sales": 13,
+  "category": {
+    "$oid": "68191eeb5dabc349159f4391"
+  },
+  "provider": {
+    "$oid": "6819189f3b24485c344e059f"
+  },
+  "entryDate": {
+    "$date": "2025-05-05T00:00:00.000Z"
+  },
+  "expirationDate": {
+    "$date": "2025-05-06T00:00:00.000Z"
+  },
+  "image": "https://static01.nyt.com/images/2021/08/11/dining/06Plantains1-esp-1/merlin_190839570_67126d35-e8ee-4321-85cf-2a721a33a2ef-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+  "status": true,
+  "createdAt": {
+    "$date": "2025-05-05T20:25:48.641Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-06T22:11:23.694Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68191f595dabc349159f43a7"
+  },
+  "name": "ChiPhone",
+  "description": "samsung >>>> chiphone ",
+  "price": {
+    "$numberDecimal": "1500"
+  },
+  "stock": 240,
+  "sales": 20,
+  "category": {
+    "$oid": "68191ef95dabc349159f4396"
+  },
+  "provider": {
+    "$oid": "6819189f3b24485c344e059f"
+  },
+  "entryDate": {
+    "$date": "2025-05-05T00:00:00.000Z"
+  },
+  "expirationDate": null,
+  "image": "https://i5.walmartimages.com/seo/Apple-iPhone-5s-16GB-Space-Gray-Unlocked-Used-Grade-B_1ef50298-80df-41d6-af8f-f3138c15b8f5.4674ac2678b114767591435cd0b7b4fa.jpeg",
+  "status": true,
+  "createdAt": {
+    "$date": "2025-05-05T20:28:09.843Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-06T22:12:04.621Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68191ffc5dabc349159f43c6"
+  },
+  "name": "Negros",
+  "description": "Negros de mierda parecen cucarachas que se amontonan en la basura.",
+  "price": {
+    "$numberDecimal": "500"
+  },
+  "stock": 10004,
+  "sales": 46,
+  "category": {
+    "$oid": "680d02861c38565aeb586c7e"
+  },
+  "provider": {
+    "$oid": "681a84547611ba3053ee4ce6"
+  },
+  "entryDate": {
+    "$date": "2025-05-05T00:00:00.000Z"
+  },
+  "expirationDate": null,
+  "image": "https://i.postimg.cc/kXKYYD5W/shared-image.jpg",
+  "status": true,
+  "createdAt": {
+    "$date": "2025-05-05T20:30:52.474Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-06T22:14:19.506Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6813d96d0cf26269a15b2364"
+  },
+  "name": "Mouse",
+  "description": "Utensilio para manejar el cursor.",
+  "price": {
+    "$numberDecimal": "950"
+  },
+  "stock": 31,
+  "sales": 24,
+  "category": {
+    "$oid": "680cf0a625aff872edbf9005"
+  },
+  "provider": {
+    "$oid": "681051cceed4aef10d7bb50c"
+  },
+  "entryDate": {
+    "$date": "2025-05-01T00:00:00.000Z"
+  },
+  "image": "https://www.radioshackla.com/media/catalog/product/l/o/logitech-g203-lightsynsdf-01_m3lee1t8qpw8zowr.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700",
+  "status": true,
+  "createdAt": {
+    "$date": "2025-05-01T20:28:29.312Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-06T04:40:55.801Z"
+  },
+  "expirationDate": null
+},
+{
+  "_id": {
+    "$oid": "6814466d15290935216c3bf6"
+  },
+  "name": "Radio",
+  "description": "equipo de sonido con 5 bocinas",
+  "price": {
+    "$numberDecimal": "5000"
+  },
+  "stock": 10,
+  "sales": 3,
+  "category": {
+    "$oid": "68104bda38a7662ea15dc82b"
+  },
+  "provider": {
+    "$oid": "6815afedd1c2b8f0aaf65c37"
+  },
+  "entryDate": {
+    "$date": "2025-02-20T00:00:00.000Z"
+  },
+  "image": "https://th.bing.com/th/id/OIP.-_JmcXA0ysVuyFLixKK6igHaCu?rs=1&pid=ImgDetMain",
+  "status": true,
+  "createdAt": {
+    "$date": "2025-05-02T04:13:33.724Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-05T06:16:03.368Z"
+  },
+  "expirationDate": null
+},
+{
+  "_id": {
+    "$oid": "681460ec26dcc9edf56c7b4d"
+  },
+  "name": "Rene",
+  "description": "Rana",
+  "price": {
+    "$numberDecimal": "120"
+  },
+  "stock": 120,
+  "sales": 9,
+  "category": {
+    "$oid": "680d02d81c38565aeb586c85"
+  },
+  "provider": {
+    "$oid": "681051dceed4aef10d7bb511"
+  },
+  "entryDate": {
+    "$date": "2025-05-02T00:00:00.000Z"
+  },
+  "image": "https://m.media-amazon.com/images/I/41g6jROgo0L.png",
+  "status": true,
+  "createdAt": {
+    "$date": "2025-05-02T06:06:36.383Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-06T05:38:15.546Z"
+  },
+  "expirationDate": null
+},
+{
+  "_id": {
+    "$oid": "681595e7cabaec6fe773c11d"
+  },
+  "name": "Mono",
+  "description": "Jeremy",
+  "price": {
+    "$numberDecimal": "120"
+  },
+  "stock": 1,
+  "sales": 3,
+  "category": {
+    "$oid": "680cf0a625aff872edbf9005"
+  },
+  "provider": {
+    "$oid": "6818069f033577b2ae059c21"
+  },
+  "entryDate": {
+    "$date": "2025-05-02T00:00:00.000Z"
+  },
+  "image": "https://i.redd.it/qm55rusoit1c1.png",
+  "status": true,
+  "createdAt": {
+    "$date": "2025-05-03T04:04:55.449Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-06T05:44:05.823Z"
+  },
+  "expirationDate": null
+},
+{
+  "_id": {
+    "$oid": "68183bfc2bb58de34ff5bd06"
+  },
+  "name": "Huevos",
+  "description": "Huevos de gallina",
+  "price": {
+    "$numberDecimal": "12"
+  },
+  "stock": 1,
+  "sales": 9,
+  "category": {
+    "$oid": "680d02861c38565aeb586c7e"
+  },
+  "provider": {
+    "$oid": "6817c842033577b2ae05989b"
+  },
+  "entryDate": {
+    "$date": "2025-05-04T00:00:00.000Z"
+  },
+  "expirationDate": {
+    "$date": "2025-05-08T00:00:00.000Z"
+  },
+  "image": "https://www.elespectador.com/resizer/v2/QUM333TOSBE2LPOBAT2H3USCXY.jpg?auth=dfcca0fb6166d361fd24bfc143034848c6c5267beb2241325e524ef7d26d1a7d&width=920&height=613&smart=true&quality=60",
+  "status": true,
+  "createdAt": {
+    "$date": "2025-05-05T04:18:04.228Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-06T07:35:31.143Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6818454a2bb58de34ff5be83"
+  },
+  "name": "Cemento",
+  "description": "Cemento que te importa",
+  "price": {
+    "$numberDecimal": "300"
+  },
+  "stock": 0,
+  "sales": 31,
+  "category": {
+    "$oid": "680cf0a625aff872edbf9005"
+  },
+  "provider": {
+    "$oid": "6818069f033577b2ae059c21"
+  },
+  "entryDate": {
+    "$date": "2025-05-04T00:00:00.000Z"
+  },
+  "expirationDate": null,
+  "image": "https://www.distribuidoramariscal.com.gt/wp-content/uploads/2022/05/cemento-para-la-construccion-de-tu-casa-d.jpg",
+  "status": true,
+  "createdAt": {
+    "$date": "2025-05-05T04:57:46.603Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-06T22:01:07.355Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "681996205e18961309a8752f"
+  },
+  "name": "Teclado",
+  "description": "Teclado TKL",
+  "price": {
+    "$numberDecimal": "1200"
+  },
+  "stock": 1,
+  "sales": 11,
+  "category": {
+    "$oid": "6816f36f033577b2ae059737"
+  },
+  "provider": {
+    "$oid": "681845502bb58de34ff5be8c"
+  },
+  "entryDate": {
+    "$date": "2025-05-05T00:00:00.000Z"
+  },
+  "expirationDate": null,
+  "image": "https://i.blogs.es/82b791/hyperx-alloy-origins-60/1366_2000.jpeg",
+  "status": true,
+  "createdAt": {
+    "$date": "2025-05-06T04:54:56.061Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-06T07:36:14.471Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68199fa040952b65d67b2a1e"
+  },
+  "name": "Cursed",
+  "description": "Morados",
+  "price": {
+    "$numberDecimal": "120"
+  },
+  "stock": 1,
+  "sales": 8,
+  "category": {
+    "$oid": "680cf0a625aff872edbf9005"
+  },
+  "provider": {
+    "$oid": "681845502bb58de34ff5be8c"
+  },
+  "entryDate": {
+    "$date": "2025-05-05T00:00:00.000Z"
+  },
+  "expirationDate": null,
+  "image": "https://pyxis.nymag.com/v1/imgs/392/b88/f2cae65a3354b4fc3a9ff4da05bd9821e7-31-birthday-boy.rsquare.w400.jpg",
+  "status": true,
+  "createdAt": {
+    "$date": "2025-05-06T05:35:28.391Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-06T07:37:03.644Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6819a2660ee51ff109eef884"
+  },
+  "name": "Sherk",
+  "description": "cherk",
+  "price": {
+    "$numberDecimal": "120"
+  },
+  "stock": 1,
+  "sales": 4,
+  "category": {
+    "$oid": "6816f393033577b2ae05973c"
+  },
+  "provider": {
+    "$oid": "681845502bb58de34ff5be8c"
+  },
+  "entryDate": {
+    "$date": "2025-05-05T00:00:00.000Z"
+  },
+  "expirationDate": null,
+  "image": "https://imgix.ranker.com/user_node_img/50105/1002095730/original/1002095730-photo-u1?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&w=355",
+  "status": true,
+  "createdAt": {
+    "$date": "2025-05-06T05:47:18.303Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-06T07:38:07.654Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "681a88467611ba3053ee4f0d"
+  },
+  "name": "Bombardiro Crocodilo",
+  "description": "bombardea niños en gaza",
+  "price": {
+    "$numberDecimal": "123.99"
+  },
+  "stock": 12,
+  "sales": 43,
+  "category": {
+    "$oid": "680d02d81c38565aeb586c85"
+  },
+  "provider": {
+    "$oid": "681a84547611ba3053ee4ce6"
+  },
+  "entryDate": {
+    "$date": "2025-05-06T00:00:00.000Z"
+  },
+  "expirationDate": null,
+  "image": "https://elcomercio.pe/resizer/v2/23QJNR7GKBFXFGVOD3T5YNFBUY.jpg?auth=65bfea3302336ff82498cc45f8bd64623be85302b5f593f4925613834e830172&width=1200&height=675&quality=75&smart=true",
+  "status": true,
+  "createdAt": {
+    "$date": "2025-05-06T22:08:06.590Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-06T22:09:54.783Z"
+  }
+}]
