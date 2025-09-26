@@ -8,7 +8,6 @@ const ProductSchema = Schema({
     },
     description: {
         type: String,
-        required: true
     },
     stock: {
         type: Number,
