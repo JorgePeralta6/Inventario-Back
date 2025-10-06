@@ -5,7 +5,7 @@ import User from '../users/user.model.js';
 export const registerEntry = async (req, res) => {
     try {
 
-        const { productId, quantity } = req.body;
+        const { productId, quantity, reason } = req.body;
         const product = req.product;
         const employee = req.usuario._id;
 
@@ -15,7 +15,8 @@ export const registerEntry = async (req, res) => {
         const movement = new Movement({
             product: productId,
             quantity,
-            employee
+            employee,
+            reason
         })
     
         await movement.save();
@@ -146,3 +147,60 @@ export const getMovementsInventory = async (req, res) => {
     }
 }
 
+// Añade esta función a tu movement.controller.js
+
+export const updateMovement = async (req, res) => {
+    try {
+        const { id } = req.params;
+        const { reason, destiny } = req.body;
+
+        // Validación
+        if (!reason || !destiny) {
+            return res.status(400).json({
+                success: false,
+                msg: 'Reason and destiny are required'
+            });
+        }
+
+        // Buscar el movimiento
+        const movement = await Movement.findById(id);
+
+        if (!movement) {
+            return res.status(404).json({
+                success: false,
+                msg: 'Movement not found'
+            });
+        }
+
+        // Verificar que sea una salida (solo las salidas tienen reason y destiny)
+        if (!movement.reason && !movement.destiny) {
+            return res.status(400).json({
+                success: false,
+                msg: 'Cannot update entry movements, only outputs'
+            });
+        }
+
+        // Actualizar
+        movement.reason = reason;
+        movement.destiny = destiny;
+        await movement.save();
+
+        // Poblar los datos para la respuesta
+        const updatedMovement = await Movement.findById(id)
+            .populate('product', 'name')
+            .populate('employee', 'name');
+
+        return res.status(200).json({
+            success: true,
+            msg: 'Movement updated successfully',
+            movement: updatedMovement
+        });
+
+    } catch (error) {
+        return res.status(500).json({
+            success: false,
+            msg: 'Error updating movement',
+            error: error.message
+        });
+    }
+};

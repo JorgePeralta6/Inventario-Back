@@ -7,7 +7,7 @@ import { validateReasonAndDestiny } from '../middlewares/validate-reason-destiny
 import { validateNoReasonAndDestiny } from '../middlewares/validate-no-reason-destiny.js';
 import { validateQuantity } from '../middlewares/validate-quantity.js';
 import { validateDates } from '../middlewares/validate-dates.js';
-import { registerEntry, registerOutput, getMovements, getMovementsInventory} from './movement.controller.js';
+import { registerEntry, registerOutput, getMovements, getMovementsInventory, updateMovement} from './movement.controller.js';
 
 const router = Router();
 
@@ -45,5 +45,11 @@ router.get('/inventoryMovements',
     getMovementsInventory
 )
 
+router.put('/:id', 
+    [
+        validateJWT
+    ], 
+    updateMovement
+);
 
 export default router;
